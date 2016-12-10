@@ -53,7 +53,7 @@
   color: #b43d3d !important;
 }
 .syntaxhighlighter .preprocessor {
-  color: #8aa6c1 !important;
+  color: #00a000 !important;
 }
 .syntaxhighlighter .variable {
   color: #ffaa3e !important;
@@ -62,7 +62,7 @@
   color: #f7e741 !important;
 }
 .syntaxhighlighter .functions {
-  color: #ffaa3e !important;
+  color: #000000 !important;
 }
 .syntaxhighlighter .constants {
   color: #e0e8ff !important;
