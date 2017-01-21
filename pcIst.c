@@ -1,0 +1,2 @@
+while(!succeed)
+    try();
